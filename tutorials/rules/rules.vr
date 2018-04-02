@@ -181,7 +181,7 @@ The text of question for single-choice #3
 exact-match
 
 ###Question
-qs
+q
 
 ###Match
 one letter in the question
@@ -193,7 +193,7 @@ one letter in the question
 exact-match
 
 ###Question
-00
+0
 
 ###Match
 one digit in the question
@@ -208,7 +208,7 @@ exact-match
 one letter in the match
 
 ###Match
-Ra
+R
 
 [VALIDATE_16]
 
@@ -220,7 +220,7 @@ exact-match
 one digit in the match
 
 ###Match
-55
+5
 
 [VALIDATE_17]
 
@@ -230,7 +230,7 @@ one digit in the match
 exact-match
 
 ###Question
-@
+%
 
 ###Match
 one special symbol in the question
